@@ -1,3 +1,4 @@
+
 # OOPBankManagementSystem
 
 # 🏦 OOP Bank Management System
@@ -233,45 +234,7 @@ Tables
 
 ## Dashboard
 
-(Add Screenshot Here)
-
----
-
-## Customers
-
-(Add Screenshot Here)
-
----
-
-## Accounts
-
-(Add Screenshot Here)
-
----
-
-## Transfers
-
-(Add Screenshot Here)
-
----
-
-## Transactions
-
-(Add Screenshot Here)
-
----
-
-## Loans
-
-(Add Screenshot Here)
-
----
-
-## Cards
-
-(Add Screenshot Here)
-
----
+<img width="1536" height="1024" alt="ChatGPT Image Jun 28, 2026, 07_13_15 PM" src="https://github.com/user-attachments/assets/10045956-58a5-4f1a-8694-b13ad3b8aac1" />
 
 # ⚙️ Installation
 
