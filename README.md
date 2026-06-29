@@ -234,7 +234,8 @@ Tables
 
 ## Dashboard
 
-<img width="1536" height="1024" alt="ChatGPT Image Jun 28, 2026, 07_13_15 PM" src="https://github.com/user-attachments/assets/10045956-58a5-4f1a-8694-b13ad3b8aac1" />
+<img width="1536" height="1024" alt="Dashboard" src="https://github.com/user-attachments/assets/3ecc39d8-3224-4cfb-99a8-9e44123bcf6a" />
+
 
 # ⚙️ Installation
 
